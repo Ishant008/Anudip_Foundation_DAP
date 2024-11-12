@@ -9,4 +9,4 @@ discount_amount = (20 / 100) * cost_price
 final_price = cost_price - discount_amount
 
 # Display the final price
-print("The total price after applying a 20% discount is: ",final_price)
+print("The total price after applying of 20% discount is: ",final_price)
